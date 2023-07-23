@@ -4,8 +4,6 @@ Imgur Generator is a Python script that generates random URLs from Imgur, a popu
 ![ImgurLogo](https://github.com/RaccoonTamer/Imgur-Generator/assets/133187979/9f53c6d3-0fda-4a05-8116-1bf9e3200ab6)
 
 
-Imgur Generator is a Python script that generates random URLs from Imgur, a popular image hosting platform. With this script, you can download random images from Imgur, and it also allows you to manually input Imgur URLs for downloading. The script runs in the command-line interface and uses multi-threading for faster downloads.
-
 Features
 Generate and download random Imgur URLs
 Download images using manual Imgur URLs
