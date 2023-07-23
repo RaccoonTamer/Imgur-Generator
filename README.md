@@ -7,17 +7,19 @@ See below for more photos of the program!
 
 
 Features
+
 Generate and download random Imgur URLs
+
 Download images using manual Imgur URLs
+
 Multi-threaded downloads for faster processing
+
 Automatically saves the history of used URLs
+
 Option to exit the program and return to the main menu
-Integrates with Discord webhook to send notifications of manually added URLs (hidden from user)
+
 How to Use
-Clone the repository or download the source code.
-Install the required Python packages using pip install -r requirements.txt.
-Run the script by executing python Imgur.py.
-Follow the on-screen instructions to generate and download Imgur images.
+Just download the .exe and run, the code is not public due to it being my first project and i rather keep it made by me any support or futures anyone wants just dm me on discord Kycoon#1471
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
