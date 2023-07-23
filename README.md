@@ -21,8 +21,6 @@ Customizable image downloads: Whether you want to download a single image or a l
 User-friendly interface: The program runs as a convenient .exe application, making it easy to navigate and utilize its powerful features.
 
 Enjoy an engaging and seamless Imgur exploration experience with Imgur Generator. Unleash the potential of random discovery or specify your preferred images – the choice is yours!
-How to Use
-Just download the .exe and run, the code is not public due to it being my first project and i rather keep it made by me any support or futures anyone wants just dm me on discord Kycoon#1471
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
