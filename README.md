@@ -6,18 +6,21 @@ See below for more photos of the program!
 ![ImgurLogo](https://github.com/RaccoonTamer/Imgur-Generator/assets/133187979/9f53c6d3-0fda-4a05-8116-1bf9e3200ab6)
 
 
-Features
+Features:
 
-Generate and download random Imgur URLs
+Generate and download random Imgur URLs: The application generates random Imgur URLs, ensuring you discover a diverse range of captivating images with every use.
 
-Download images using manual Imgur URLs
+Download images using manual Imgur URLs: You have the freedom to input specific Imgur URLs and effortlessly download your desired images.
 
-Multi-threaded downloads for faster processing
+Multi-threaded downloads for faster processing: Take advantage of multi-threading technology, which optimizes download speed and efficiency.
 
-Automatically saves the history of used URLs
+Automatic history of used URLs: The application maintains a .txt history file, ensuring that no URL is ever reused. Each generated URL is unique, providing a fresh experience every time.
 
-Option to exit the program and return to the main menu
+Customizable image downloads: Whether you want to download a single image or a large batch, the application accommodates your preferences. Simply input the number of images you wish to download.
 
+User-friendly interface: The program runs as a convenient .exe application, making it easy to navigate and utilize its powerful features.
+
+Enjoy an engaging and seamless Imgur exploration experience with Imgur Generator. Unleash the potential of random discovery or specify your preferred images – the choice is yours!
 How to Use
 Just download the .exe and run, the code is not public due to it being my first project and i rather keep it made by me any support or futures anyone wants just dm me on discord Kycoon#1471
 
